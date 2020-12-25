@@ -99,7 +99,7 @@ Resources:
            
             wget https://github.com/implement1/aws-iaactest/archive/master.zip 
             unzip master.zip
-            mv aws-boostrap-master app
+            mv aws-iaactest-master app
 
             
             mkdir -p /home/ec2-user/app/logs
