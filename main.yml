@@ -97,7 +97,7 @@ Resources:
             nvm use v12.7.0
 
            
-            wget https://github.com/implement1/aws-boostrap/archive/master.zip 
+            wget https://github.com/implement1/aws-iaactest/archive/master.zip 
             unzip master.zip
             mv aws-boostrap-master app
 
