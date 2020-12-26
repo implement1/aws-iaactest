@@ -237,9 +237,9 @@ Resources:
             nvm use v12.7.0
 
             # Download latest code, unzip it into /home/ec2-user/app
-            #wget https://github.com/{{username}}/aws-bootstrap/archive/master.zip 
+            #wget https://github.com/implement1/aws-iaactest/archive/master.zip 
             #unzip master.zip
-            #mv aws-bootstrap-master app
+            #mv aws-iaactest app
 
             # Create log directory
             mkdir -p /home/ec2-user/app/logs
